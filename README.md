@@ -6,13 +6,15 @@ I'm a developer focused on cybersecurity, web development, and app development. 
 
 I work on penetration testing and vulnerability assessments to keep systems secure. For web development, I build full-stack applications using JavaScript, React, and Node.js. I also create mobile apps with React Native and Flutter.
 
-## GitHub Stats
+## Currently Working On
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+🔒 Security automation tools  
+🌐 Full-stack web applications  
+📱 Cross-platform mobile apps
 
 ## Contact
 
-📧 kioaep14@gmail.com
+📧 -
 💼 [LinkedIn](https://linkedin.com/in/oct4)
 
 <div align="center">
