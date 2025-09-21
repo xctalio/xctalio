@@ -10,7 +10,6 @@ I work on penetration testing and vulnerability assessments to keep systems secu
 
 🔒 Security automation tools  
 🌐 Full-stack web applications  
-📱 Cross-platform mobile apps
 
 ## Contact
 
