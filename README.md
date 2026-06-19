@@ -1,21 +1,17 @@
-# Hi there! 👋 I'm Octalio
+# Hi there! I'm Lio
 
-I'm a developer focused on cybersecurity, web development, and app development. I enjoy building secure applications and exploring new technologies.
+I'm a developer interested in building useful software, understanding systems, and continuously learning new technologies.
+
+I enjoy working on web development, backend engineering, and cybersecurity while improving through hands-on projects and practical experience.
 
 ## What I Do
 
-I work on penetration testing and vulnerability assessments to keep systems secure. For web development, I build full-stack applications using JavaScript, React, and Node.js. I also create mobile apps with React Native and Flutter.
+I build applications, explore system architecture, and learn how technology works beyond just writing code.
+
+I focus on creating projects that help me grow both technically and creatively.
 
 ## Currently Working On
 
-🔒 Security automation tools  
-🌐 Full-stack web applications  
-
-## Contact
-
-📧 -
-💼 [LinkedIn](https://linkedin.com/in/oct4)
-
-<div align="center">
-  <i>⭐ From <a href="https://github.com/xctalio">Octalio</a></i>
-</div>
+• Full-stack web applications  
+• Backend systems and architecture  
+• Cybersecurity fundamentals  
